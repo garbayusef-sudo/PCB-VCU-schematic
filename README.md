@@ -7,7 +7,7 @@ Rookie task for Concordia's SAE Electric team: designed a Vehicle Control Unit (
 ## Schematic Overview
 ![VCU Schematic Preview](schematic-preview.png)
 
-> **View Complete Design:** [Download the full PDF schematic](./Rookie%20Task%20-%20ELEC%20-%20PCB.pdf)
+> **View Complete Design requirements:** [Download the full PDF schematic](./Rookie%20Task%20-%20ELEC%20-%20PCB.pdf)
 
 ---
 

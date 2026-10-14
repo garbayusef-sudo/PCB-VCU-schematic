@@ -17,6 +17,3 @@ Rookie task for Concordia's SAE Electric team: designed a Vehicle Control Unit (
 * **Power Conditioning:** Input protection and step-down regulation to supply clean 3.3V/5V rails.
 * **Sensor Inputs:** 4 conditioning circuits with analog filtering and pull-up/pull-down networks.
 
-## Tools Used
-* **EDA:** Altium Designer
-* **Target Application:** FSAE Electric Vehicle Control Unit
